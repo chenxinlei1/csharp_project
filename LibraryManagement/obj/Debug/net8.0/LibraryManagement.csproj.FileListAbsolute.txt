@@ -1,0 +1,14 @@
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.AssemblyInfo.cs
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/xinleichen/Downloads/LibraryManagement/bin/Debug/net8.0/LibraryManagement
+/Users/xinleichen/Downloads/LibraryManagement/bin/Debug/net8.0/LibraryManagement.deps.json
+/Users/xinleichen/Downloads/LibraryManagement/bin/Debug/net8.0/LibraryManagement.runtimeconfig.json
+/Users/xinleichen/Downloads/LibraryManagement/bin/Debug/net8.0/LibraryManagement.dll
+/Users/xinleichen/Downloads/LibraryManagement/bin/Debug/net8.0/LibraryManagement.pdb
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.dll
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/refint/LibraryManagement.dll
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.pdb
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/LibraryManagement.genruntimeconfig.cache
+/Users/xinleichen/Downloads/LibraryManagement/obj/Debug/net8.0/ref/LibraryManagement.dll
