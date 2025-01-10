@@ -1,0 +1,14 @@
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.AssemblyInfoInputs.cache
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.AssemblyInfo.cs
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.csproj.CoreCompileInputs.cache
+/Users/xinleichen/Movies/BookManagement/bin/Debug/net8.0/BookManagement
+/Users/xinleichen/Movies/BookManagement/bin/Debug/net8.0/BookManagement.deps.json
+/Users/xinleichen/Movies/BookManagement/bin/Debug/net8.0/BookManagement.runtimeconfig.json
+/Users/xinleichen/Movies/BookManagement/bin/Debug/net8.0/BookManagement.dll
+/Users/xinleichen/Movies/BookManagement/bin/Debug/net8.0/BookManagement.pdb
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.dll
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/refint/BookManagement.dll
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.pdb
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/BookManagement.genruntimeconfig.cache
+/Users/xinleichen/Movies/BookManagement/obj/Debug/net8.0/ref/BookManagement.dll

@@ -1,0 +1,20 @@
+[
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "PublicationYear": "1813"
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "PublicationYear": "1949"
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction",
+    "PublicationYear": ""
+  }
+]
