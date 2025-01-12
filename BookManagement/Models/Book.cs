@@ -18,7 +18,6 @@ public class Book
     public string Title { get; set; } = string.Empty;
     public string Author { get; set; } = string.Empty;
 
-    // 将 Genre 改为枚举类型
     public Genre BookGenre { get; set; } = Genre.Unknown;
     public string? PublicationYear { get; set; }
 
@@ -45,6 +44,5 @@ public class Book
         return $"{Title}{separator}{Author}{separator}{BookGenre}{separator}{(string.IsNullOrEmpty(PublicationYear) ? "Unknown" : PublicationYear)}";
     }
 
-    // 添加一个只读属性
     public string ShortDescription => $"{Title} ({BookGenre}) by {Author}";
 }

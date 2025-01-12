@@ -1,6 +1,6 @@
 ﻿using BookManagementSystem;
 using System;
-using System.Text; // 添加此行
+using System.Text; 
 
 public class Program
 {
@@ -9,7 +9,6 @@ public class Program
         BookIndex index = new BookIndex();
         CommandInterpreter interpreter = new CommandInterpreter(index);
 
-        // 添加欢迎信息
         Console.WriteLine("Welcome to the Book Management System!");
         Console.WriteLine("Type 'help' to see available commands.\n");
 
@@ -29,11 +28,11 @@ public class Program
             StringBuilder currentArg = new StringBuilder();
             foreach (char c in line)
             {
-                if (c == '"') // 检测引号
+                if (c == '"') 
                 {
                     inQuotes = !inQuotes;
                 }
-                else if (c == ' ' && !inQuotes) // 空格但不在引号中
+                else if (c == ' ' && !inQuotes) 
                 {
                     if (currentArg.Length > 0)
                     {

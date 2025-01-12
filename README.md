@@ -71,7 +71,7 @@ save <filePath>
 
 **Exemple** :
 ```bash
-save books.csv
+save Data/books.csv
 ```
 
 ### 4. `load`
@@ -86,7 +86,7 @@ load <filePath>
 
 **Exemple** :
 ```bash
-load books.csv
+load Data/books.csv
 ```
 
 ### 5. `write_json`
@@ -101,7 +101,7 @@ write_json <filePath>
 
 **Exemple** :
 ```bash
-write_json books.json
+write_json Data/books.json
 ```
 
 ### 6. `read_json`
@@ -116,7 +116,7 @@ read_json <filePath>
 
 **Exemple** :
 ```bash
-read_json books.json
+read_json Data/books.json
 ```
 
 ### 7. `help`
